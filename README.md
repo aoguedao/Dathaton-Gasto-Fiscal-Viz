@@ -1,4 +1,4 @@
 # testJupyter
 This is pulento
 
-Oh! Estoy haciendo un commit para aprender.
+Tu debes aprender sobre el aprendizaje.
